@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    width: 100%;
+    height: 50px;
+    background-color: #000;
+}
+
+.header ul{
+
+}
+
+.header li{
+    display: inline;
+    line-height: 50px;
+
+}
+
+.header a:hover{
+    background-color: #ccc;
+    color: #000;
+}
+
+.header li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 17px;
+}
+
+.cau-hoi{
+    margin: 0 15px;
+}
+
+.cau-hoi p {
+    margin: 25px 0;
+}
+
+.anh-tra-loi{
+    width: 300px;
+    height: 200px;
+    margin: 10px 355px;
+}
+
+#de-le{
+    margin: 0 20px;
+}
+
+#de-le .dap-an{
+    color: rebeccapurple;
+}
+
+.chon-de{
+    margin: 20px;
+}
+
+.chon-de a{
+    padding: 10px;
+    color: #fff;
+    background-color: #000;
+}
