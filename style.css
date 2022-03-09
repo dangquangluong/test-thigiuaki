@@ -21,7 +21,7 @@ html{
 }
 
 .header{
-    width: 104%;
+    width: 100%;
     height: 50px;
     background-color: #000;
 }
@@ -91,10 +91,6 @@ html{
     margin: 15px;
 }
 
-.mon-sinh{
-    margin: 0 10px;
-}
-
 .mon-sinh a {
     background-color: #000;
     color: #fff;
@@ -116,4 +112,23 @@ html{
 
 .tra-loi p{
     margin: 10px 0;
+}
+
+.icon-len{
+    
+}
+
+.icon-len-tren{
+    margin: 10px 20px;
+    font-size: 80px;
+}
+
+.icon-len a{
+    color: rgb(255, 0, 0);
+    position: fixed;
+    float: right;
+    right: 0;
+    bottom: 0;
+    margin-right: 20px;
+    text-decoration: none;
 }
