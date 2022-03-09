@@ -7,8 +7,21 @@ html{
     scroll-behavior: smooth;
 }
 
+.the-h1{
+    text-align: center !important;
+    margin: 15px 0 !important;
+}
+
+.clear{
+    clear: both;
+}
+
+.icon-len{
+    background-color: #000;
+}
+
 .header{
-    width: 100%;
+    width: 104%;
     height: 50px;
     background-color: #000;
 }
@@ -52,10 +65,6 @@ html{
     margin: 0 20px;
 }
 
-#de-le .dap-an{
-    color: rebeccapurple;
-}
-
 .chon-de{
     margin: 20px;
 }
@@ -75,9 +84,32 @@ html{
 }
 
 .dap-an {
-    color: rebeccapurple;
+    color: red;
 }
 
 .tra-loi{
     margin: 15px;
+}
+
+.mon-sinh a {
+    background-color: #000;
+    color: #fff;
+    margin: 0 5px;
+    padding: 10px;
+}
+
+.mon-sinh .trac-tu {
+    margin: 20px 0;
+}
+
+#tu-luan-sinh{
+    margin: 0 15px;
+}
+
+.mon-sinh ul {
+    margin: 10px 0;
+}
+
+.tra-loi p{
+    margin: 10px 0;
 }
