@@ -91,6 +91,10 @@ html{
     margin: 15px;
 }
 
+.mon-sinh{
+    margin: 0 10px;
+}
+
 .mon-sinh a {
     background-color: #000;
     color: #fff;
