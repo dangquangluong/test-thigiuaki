@@ -124,7 +124,8 @@ html{
 }
 
 .icon-len a{
-    color: rgb(255, 0, 0);
+    color: red;
+    padding: 0 20px;
     position: fixed;
     float: right;
     right: 0;
