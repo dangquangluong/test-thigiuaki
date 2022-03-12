@@ -137,3 +137,14 @@ html{
     text-align: justify;
     margin: 0 15px;
 }
+
+.mon-su,
+ .mon-hoa{
+    margin: 0 15px;
+}
+
+.mon-su a,
+.mon-hoa a{
+    margin-left: 10px;
+}
+
