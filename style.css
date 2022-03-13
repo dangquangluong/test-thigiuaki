@@ -119,12 +119,13 @@ html{
 }
 
 .icon-len-tren{
-    margin: 10px 20px;
     font-size: 80px;
+    padding: 30px;
 }
 
 .icon-len a{
-    color: rgb(255, 0, 0);
+    color: #fff;
+    background-color: #000;
     position: fixed;
     float: right;
     right: 0;
@@ -138,13 +139,25 @@ html{
     margin: 0 15px;
 }
 
+.mon-van .lam-van{
+    margin: 15px 0;
+}
+
 .mon-su,
  .mon-hoa{
     margin: 0 15px;
 }
 
 .mon-su a,
-.mon-hoa a{
+.mon-hoa a,
+.mon-toan {
     margin-left: 10px;
 }
+
+.mon-toan a{
+    margin: 0 10px;
+}
+
+
+
 
